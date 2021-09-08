@@ -4,3 +4,4 @@ trying to resolse
 * story telling things
 
 * its all about the story structure
+* trying-conflit
